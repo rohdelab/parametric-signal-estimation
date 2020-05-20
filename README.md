@@ -1,2 +1,2 @@
-# parametric-signal-estimation
-Parametric Signal Estimation Using the CDT
+# Parametric Signal Estimation Using the Cumulative Distribution Transform
+Parametric Signal Estimation using the CDT
