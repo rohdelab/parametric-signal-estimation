@@ -18,7 +18,7 @@ param='delay';                 %gp(t) = t - tau;    Fig. 6
 
 % Number of realizations for estimating. Results shown in the paper
 % were generated using 1000 realizations
-NumRealizations=10;
+NumRealizations=1000;
 
 
 N=400;                          % number of points in signal
