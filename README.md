@@ -11,6 +11,8 @@ Couple examples in python using PyTransKit (Python Transport Based Signal Proces
 3. Demo02_time_delay_linear_dispersion.m: A demo code showing an example of time delay and linear dispersion estimation using the CDT.
 
 4. Compare estimation methods: This directory contains the codes required to generate the plots from the paper, where comparison among different estimation methods are shown. 'TestEstimate.m' is the main script. There is a variable 'param' which controls the choice of estimation problems to run:
-  i)  param = 'delay': runs the time delay estimation problem. Generates the plot in Fig. 6 from the paper.
-  ii) param = 'delay_dispersion': runs the time delay and linear dispersion estimation problem. Generates the plots in Fig. 7 from the paper.
-  iii)param = 'delay_quadtratic': runs the time delay and quadratic dispersion estimation problem. Generates the plots in Fig. 10 from the paper.
+\begin{itemize}
+  \item  param = 'delay': runs the time delay estimation problem. Generates the plot in Fig. 6 from the paper.
+  \item param = 'delay_dispersion': runs the time delay and linear dispersion estimation problem. Generates the plots in Fig. 7 from the paper.
+  \item param = 'delay_quadtratic': runs the time delay and quadratic dispersion estimation problem. Generates the plots in Fig. 10 from the paper.
+\end{itemize}
